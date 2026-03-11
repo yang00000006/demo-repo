@@ -1,0 +1,4 @@
+Git 教学演示仓库
+
+这份文件已经进入初始提交。
+后续课堂演示会修改它来展示 diff、restore、branch、merge 和 stash。
